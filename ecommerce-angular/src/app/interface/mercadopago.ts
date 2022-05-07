@@ -1,6 +1,3 @@
-export interface MercadoPago {
-}
-
 export interface Identifications {
     id: string;
     max_length: number;
