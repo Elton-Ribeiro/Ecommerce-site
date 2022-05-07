@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   apiUrl: 'https://api.mercadopago.com',
-  apiKey: 'TEST-e3045976-b017-4496-b096-ab590ed8ce86'
+  apiKey: ''
 };
 
 /*
